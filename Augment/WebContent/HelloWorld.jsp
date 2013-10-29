@@ -9,6 +9,6 @@
 <body>
 Vivek Srivastava
 
-I am updating my Hello World JSP for testing purpose 
+I am updating my Hello World 
 </body>
 </html>
